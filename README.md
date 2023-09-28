@@ -1,10 +1,11 @@
-# yukaTut
+# randomly-moving-fish-yuka
 
-"Cloning And Animating Models Loaded From glTF Files - Three.js Tutorial" YouTube tutorial project files https://youtu.be/ohEtw-F1FR8
+1. Clone the repository;
+2. Open the folder in Visual Studio Code;
+3. Open the terminal and type this command: npm install
+4. Run the app on the server by typing this command: npx parcel ./src/index.html
+5. Ctrl + click on the server link "http://localhost:1234" to open the app in your browser;
+6. Have fun!
 
-1. Download repository
-2. Make sure to install dependencies: open project in VSCode -> open command line -> type: npm install
-3. Install Parcel by Parcel by typing the following command: npm install parcel -g
-4. Run Parcel by typing this command: npm parcel ./src/index.html
-5. Ctrl + left click on the address generated in the command line. Or open your browser and copy paste this address http://localhost:1234
-6. Have fun! :D
+- The ./static folder is where you put the images and 3D models.
+- The the ./src/ is where you put your Javascript and CSS folders and files.
